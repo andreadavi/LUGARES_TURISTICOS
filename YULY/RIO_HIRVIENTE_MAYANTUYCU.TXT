@@ -1,4 +1,3 @@
-# LUGARES_TURISTICOS
 # Presentación de Lugares Turísticos de Pucallpa
 **Autora:** Yuly Gonzales  
 **Fecha:** Julio 2025  
